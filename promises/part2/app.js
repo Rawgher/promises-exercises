@@ -20,9 +20,6 @@ $.getJSON('https://deckofcardsapi.com/api/deck/new/draw').then(data => {
     })
 
 }) 
-    
-    
-
 
 
 
